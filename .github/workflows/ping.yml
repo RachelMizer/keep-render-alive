@@ -13,7 +13,7 @@ jobs:
         run: |
           URLS=(
             "https://orderly-0t1h.onrender.com"
-            "https://tagmatch-app-undy6p.azurewebsites.net"
+            "https://tagmatch.bluewave-8a53c1ad.eastus.azurecontainerapps.io"
             # "https://your-third-service.onrender.com"
           )
 
